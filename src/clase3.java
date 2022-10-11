@@ -1,4 +1,5 @@
 public class clase3 {
 
-    private String nombre;
+    private String descripcion;
+    private Double importe;
 }
